@@ -19,11 +19,11 @@ Ao iniciar o arduino periferico é requistado um ID para o dispositivo este id d
 
 ##  Display do Arduino de Controle 📺
 O arduino de controle contém um display que mostra todos os arduinos que supostamente estam presentes no sistema, Arduinos que são confirmados no sistema possuem um "O" após seu ID, arduinos faltantes ou que estão inacessíveis são marcados com um "?". Se existem mais Arduinos do que cabem no display, existem dois botões que funcionam como um page up e page down, trocando o range de arduinos visiveis no display.
-> ![alt text](https://github.com/gabireugabiru/WhatsappGolden/tree/master/assets/display.png)
+> ![alt text](https://github.com/gabireugabiru/WhatsappGolden/blob/master/assets/display.png)
 
 ## Leds do Arduino Periférico 💡
 Existem dois leds nos arduinos perifericos, sendo o vermelho o led de espera, que significa que o arduino não está fazendo nada, apenas esperando uma requisição do Arduino de controle. O outro led é verde significando que o arduino está enviando uma mensagem para o arduino de controle.
-> ![alt text](https://github.com/gabireugabiru/WhatsappGolden/tree/master/assets/LEDS.png)
+> ![alt text](https://github.com/gabireugabiru/WhatsappGolden/blob/master/assets/LEDS.png)
 
 :shipit: Isso foi feito por **Os Não Criadores Do Whatsapp** :shipit:
 <sub><sup>
